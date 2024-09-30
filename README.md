@@ -1,6 +1,6 @@
 
 ## Tic Tac Toe 🎮
-## LIVE DEMO: https://sskumar-21.github.io/Tic-Tac-Toe/
+- LIVE DEMO: https://sskumar-21.github.io/Tic-Tac-Toe/
 
 Welcome to the Tic Tac Toe game! This project is a simple, fun, and interactive game built using [your tech stack, e.g., HTML, CSS, JavaScript].
 
