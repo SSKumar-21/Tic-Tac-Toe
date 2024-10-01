@@ -11,6 +11,9 @@ Welcome to the Tic Tac Toe game! This project is a simple, fun, and interactive 
 - Easy-to-use interface.
 - Responsive design for various screen sizes.
 
+![Image Tic-Tac-Toe](https://raw.githubusercontent.com/SSKumar-21/Tic-Tac-Toe/28a04afee6fae3908578fd4e1c95302d09f4f06e/index.png)
+
+
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - [Any other libraries or tools you used]
